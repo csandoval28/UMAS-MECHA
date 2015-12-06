@@ -1,0 +1,119 @@
+.print-site-logo{
+	float:left;
+	padding-top:8px;
+	font-weight:bold;
+	margin-left:40px;
+	max-width:20px;
+	max-height:10px;
+	}
+
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://siglodelucha.files.wordpress.com/2014/06/mural.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:10px;
+  
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold; 
+}
+.btn-jumbo {
+	position: relative;
+  top: 300px;
+  text-align: center;
+	
+	
+}
+
+.btn-jumbo a{
+
+	
+border-style:solid;
+  background-color:#fff ;
+  color: #333;
+  font-family: 'Raleway', sans-serif; 
+  font-weight: 600;
+  font-size: 10px;
+  letter-spacing: 1.3px;
+  padding: 12px 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+
+
+}
+
+.neighborhood-guides p {
+  font-family: 'Shift', sans-serif;
+  font-size: 12px;
+  
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+    color:#393c3d;
+    font-size: 18px;
+	
+	position:center;
+
+	font-weight: bold;
+}
+.action a{
+	
+	 font-size: 14px;
+	
+	position:center;
+
+	font-weight: bold;
+	text-decoration: underline;
+}
+.neighborhood-guides h3{
+    color:#393c3d;
+    font-size: 18px;
+	position: center;
+	font-weight: bold;
+}
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 30px 0;
+}
+
+.footer p {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
